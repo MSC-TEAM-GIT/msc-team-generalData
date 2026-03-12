@@ -1,6 +1,6 @@
 {
   "settings": {
-    "isEmergency": true,
+    "isEmergency": false,
     "noOutages": false,
     "lastUpdate": "14:16 | 6 березня",
     "todayDate": "6 березня",
